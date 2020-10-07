@@ -12,6 +12,7 @@ public class AnimalLocator{
     public static String getAnimalNameById(Integer idAsParam){
         //comment1
         //this is feature1
+        //this is the next feature - feature2
         String retVal = null;
         Http http = new Http();
         HttpRequest request = new HttpRequest();
